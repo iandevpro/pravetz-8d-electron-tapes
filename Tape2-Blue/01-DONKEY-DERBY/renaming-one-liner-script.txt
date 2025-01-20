@@ -1,0 +1,1 @@
+j=0; ls -1 Scr*.png | while IFS= read -r i; do j=$((j+1)); newname=$(printf "01-DONKEY-DERBY-%02d.png" $j); mv "$i" "$newname"; done

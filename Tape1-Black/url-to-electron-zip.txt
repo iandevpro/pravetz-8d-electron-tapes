@@ -1,0 +1,31 @@
+Screenshot from - Правец 8Д (Pravetz 8D): Part 4a (Soviet-era Oric Games) [TCE #0496]
+https://www.youtube.com/watch?v=mrQjGksSQUk
+
+You can search for the content of this tape on the Internet, here is one of the sources
+https://norayr.am/RetroComputing/Oric/old/homepage/electron.zip
+
+https://norayr.am/RetroComputing/Oric/old/homepage/bulgarian_games.html
+
+Here is a content of that electron.zip
+
+$ unzip -v electron.zip
+Archive:  electron.zip
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+--------  ------  ------- ---- ---------- ----- --------  ----
+       0  Stored        0   0% 2010-03-04 17:37 00000000  electron/
+    1608  Defl:X     1129  30% 2010-03-04 18:13 2014e452  electron/asteroidy.tap
+   17597  Defl:X     8074  54% 2010-03-04 18:16 0fccb9ca  electron/gobbler.tap
+    3242  Defl:X     1849  43% 2010-03-04 18:05 c7b699a9  electron/kasetmenu.tap
+    2726  Defl:X     1744  36% 2010-03-04 18:12 15f0664a  electron/kegelban.tap
+    1569  Defl:X     1088  31% 2010-03-04 18:14 8a7d9de3  electron/korabli.tap
+    1656  Defl:X     1133  32% 2010-03-04 18:13 686fa310  electron/labirint.tap
+    9526  Defl:X     5386  44% 2010-03-04 18:11 5b6df075  electron/luna.tap
+    3195  Defl:X     2204  31% 2010-03-04 18:12 7945323c  electron/oborona.tap
+    4509  Defl:X     2773  39% 2010-03-04 18:18 cd92f98f  electron/planeta.tap
+    3612  Defl:X     2230  38% 2010-03-04 18:15 c2a831e9  electron/poslednijhod.tap
+    2712  Defl:X     1722  37% 2010-03-04 18:11 a68f0673  electron/sled.tap
+    4798  Defl:X     3182  34% 2010-03-04 18:15 8e096184  electron/strelyamura.tap
+    6926  Defl:X     4546  34% 2010-03-04 18:17 bef20d9e  electron/tetris.tap
+  267094  Defl:X   265719   1% 2010-03-03 01:42 c91a25c5  electron/tape.jpg
+--------          -------  ---                            -------
+  330770           302779   9%                            15 files
