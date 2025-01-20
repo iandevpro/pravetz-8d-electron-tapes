@@ -23,3 +23,6 @@ Here is the full list, games marked with TODO will be converted and added to the
 ```
 
 Thanks goes to Olexandr Kovalenko, the co-founder of the Software & Computer Museum, who inspired me into finishing this tape rip project with his Pravetz-8D posts (in Ukrainian) - https://t.me/snclab/377
+
+Tape 2 manual
+![Tape 2](/Tape2-Blue/02-Electron-Pravetz-8D-Tape2-Blue.jpg)
